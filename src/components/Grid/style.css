@@ -1,0 +1,27 @@
+.container-grid{
+  align-items:flex-start;
+  display: grid;
+  color: #fff;
+  background-color: rgb(19, 19, 19);
+  border: 1px solid rgba(118, 3, 185, 0.418);;
+  border-radius: 5px;
+  max-width: 1120px;
+  min-height: 40vh;
+  height: 100%;
+  margin: 0 auto;
+}
+table th{
+  width: 20%;
+  padding: 10px 0;
+  background-color: rgb(27, 27, 27);
+}
+.trash{
+  margin-left: 38%;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.thh{
+  display: flex;
+  width: 100%;
+  justify-content:right;
+}

@@ -1,0 +1,30 @@
+.container-items{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(19, 19, 19);
+  color: #fff;
+  border-radius: 5px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  padding: 5px 20px;
+  font-size: 10px;
+  width: 30%;
+}
+.color-icon{
+  color: rgb(132, 2, 207);
+  font-size: 25px;
+}
+.title-items{
+  margin: 5px 0;
+  font-size: 20px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.total-items{
+  font-size: 20px;
+}
+.title{
+  background-color: green;
+}
